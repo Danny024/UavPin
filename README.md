@@ -16,7 +16,7 @@ Video Demo :
 
 ## Installation 
 1. Unreal Engine 4.27
-2. [Ubuntu 18.04 (WSL)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+2. [Ubuntu 18.04 (WSL2)](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 3. [Q Ground Countrol](http://qgroundcontrol.com/) on Windows
 4. [Airsim](https://github.com/microsoft/AirSim) on Windows 
 5. [PX4 SITL](https://microsoft.github.io/AirSim/px4_sitl/)
