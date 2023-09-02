@@ -1,7 +1,7 @@
 # UavPin
 An Intelligent Unmanned Aerial Vehicle For Detection of Pipeline Faults
 ## Abstract
-Leakages on Pipeline continues to be a problem in the petroleum sector, but this research presents the use of state of the art techniques in Robotics and Artificial Intelligence to tacke this menace. This project makes use of an intelligent drone enabled by computer vision algorithm to detect pipeline faults.
+Leakages on Pipeline continues to be a problem in the petroleum sector, but this research presents the use of state of the art techniques in Robotics and Artificial Intelligence to tackle this menace. This project makes use of an intelligent drone enabled by computer vision algorithm to detect pipeline faults.
 The Drone is able to perform the following
 1. Real time 3D Reconstruction of the environment
 2. Detection of Pipeline Faults using Computer Vision algorithm
@@ -33,6 +33,8 @@ pip install pandas pillow tqdm
 
 ## Proposed Hardware Architecture
 The Drone has a pay load of Depth Camera, RGB Camera and a LIDAR sensor
+![Propoesed Hardware Architecture](images/"Hardware".png)
+
 
 ## Simulation Architecture
 The simulation was carried out using Microsft Airsim on Windows and on Ubuntu 18.04 (WSL2)
