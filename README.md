@@ -23,7 +23,7 @@ Video Demo :
 
 ## Dependencies
 Python version => 3.8
-~pip install open3d
+~pip install open3d.
 pip install msgpack-rpc-python
 pip install airsim
 pip install pandas pillow tqdm
