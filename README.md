@@ -84,6 +84,6 @@ The pipeline tracking was carried out using a combination of A * motion planning
 ![pipeline tracking](images/pipe_tracking.png)
 
 ### References
-[1] Microsoft, “Airsim,” Microsoft, Jul. 20, 2023. https://microsoft.github.io/AirSim/ (accessed Jul. 20, 2023).
-[2] B. Alvey, D. T. Anderson, A. Buck, M. Deardorff, G. Scott, and J. M. Keller, “Simulated Photorealistic Deep Learning Framework and Workflows to Accelerate Computer Vision and Unmanned Aerial Vehicle Research.” Accessed: Jul. 21, 2023. [Online]. Available: https://github.com/MizzouINDFUL/UEUAVSim
+[1] Microsoft, “Airsim,” Microsoft, Jul. 20, 2023. https://microsoft.github.io/AirSim/ (accessed Jul. 20, 2023).<br>
+[2] B. Alvey, D. T. Anderson, A. Buck, M. Deardorff, G. Scott, and J. M. Keller, “Simulated Photorealistic Deep Learning Framework and Workflows to Accelerate Computer Vision and Unmanned Aerial Vehicle Research.” Accessed: Jul. 21, 2023. [Online]. Available: https://github.com/MizzouINDFUL/UEUAVSim <br>
 [3] Roboflow, “Pipe Burst Dataset,” 2021.
