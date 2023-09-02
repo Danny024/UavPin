@@ -1,5 +1,5 @@
-# UavPin
-An Intelligent Unmanned Aerial Vehicle For Detection of Pipeline Faults
+# An Intelligent Unmanned Aerial Vehicle
+An Intelligent Unmanned Aerial Vehicle For Detection of Pipeline Faults built on Microsoft Airsim
 ## Abstract
 Leakages on Pipeline continues to be a problem in the petroleum sector, but this research presents the use of state of the art techniques in Robotics and Artificial Intelligence to tackle this menace. This project makes use of an intelligent drone enabled by computer vision algorithm to detect pipeline faults.
 The Drone is able to perform the following
