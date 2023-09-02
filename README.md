@@ -48,7 +48,7 @@ The simulation environment was built from scratch on the Unreal Engine 4.27 Plat
 
 
 ## 3D Map Reconstruction
-The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor. The segmentation point cloud gives better seen understanding of the environment.
+The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor.  The reconstructed map when compared to ground truth comprises of rgb image and segmentation point cloud. The segmentation point cloud gives better seen understanding of the environment by segmenting objects in the scene using colour mapping.
 ![3D Reconstruct](images/3D_reconstruct.png)
 
 ## Computer Vision algorithm 
@@ -66,7 +66,7 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/170YHXG5TjJkWnKKu6tiyMteSWT8p_X48?usp=sharing)
 ### B. DETR (Detection Transformer)
-Training on Real life Dataset
+The DETR was used on the Real life dataset but because if++of its performance it was not used on the synthetic dataset.
 
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 ## Pipeline Tracking and Obstacle Avoidance
