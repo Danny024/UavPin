@@ -54,9 +54,11 @@ The 3D Map recosntruction was carried out using the fusion of the snesor reading
 
 ### A.Yolo v8
 <u>Training on Real life Dataset</u>
+
 ![Testing on Real life Dataset](images/Test_Yolo_real.png)
 
 <u>Training on Synthetic Dataset</u>
+
 ![Testing on Synthetic Dataset](images/test_yolo8.png)
 
 ### B. DETR (Detection Transformer)
