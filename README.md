@@ -67,6 +67,8 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/170YHXG5TjJkWnKKu6tiyMteSWT8p_X48?usp=sharing)
 ### B. DETR (Detection Transformer)
 The DETR was used on the Real life dataset but because of its performance it was not used on the synthetic dataset.
+**Training on Real life Dataset**
+<img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 
 ### Testing Drone on Simulation Environment
 The weight of the Yolov8 model being trained on the synthetic dataset was tested in the flight simulation environment
