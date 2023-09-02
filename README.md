@@ -8,8 +8,8 @@ The Drone is able to perform the following
 3. Obstacle avoidance during drone navigation
 4. Tracking of Pipeline path using Path Dijkstra's and A* algorithm
 
-Video Link :
-[![Unmanned Aerial Vehicle](https://img.youtube.com/vi/1v-ivv_LiHk/0.jpg)](https://www.youtube.com/watch?v=1v-ivv_LiHk)
+Video Link :[![Unmanned Aerial Vehicle](https://img.youtube.com/vi/1v-ivv_LiHk/0.jpg)](https://www.youtube.com/watch?v=1v-ivv_LiHk)
+
 
 ## Installation 
 1. Unreal Engine 4.27
