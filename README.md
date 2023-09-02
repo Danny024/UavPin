@@ -19,7 +19,7 @@ Video Demo :
 2. Ubuntu 18.04 on WSL2
 3. QGround Control on Windows
 4. [Airsim](https://github.com/microsoft/AirSim) on Windows 
-5. PX4
+5. [PX4 SITL](https://microsoft.github.io/AirSim/px4_sitl/)
 
 ## Dependencies
 ```
