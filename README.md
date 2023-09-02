@@ -77,8 +77,6 @@ The weight of the Yolov8 model being trained on the synthetic dataset was tested
 ![Testing on Environment](images/yolov8_test_sim.png)
 
 
-
-<img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 ## Pipeline Tracking and Obstacle Avoidance
 The pipeline tracking was carried out using a combination of A * motion planning algorithm and Djikstra's algorithm
 ### Drone Avoiding Obstacles
