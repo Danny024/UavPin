@@ -18,7 +18,7 @@ Video Demo :
 1. Unreal Engine 4.27
 2. Ubuntu 18.04 on WSL2
 3. QGround Control on Windows
-4. Airsim on Windows [Airsim](https://microsoft.github.io/AirSim/)
+4. [Airsim](https://microsoft.github.io/AirSim/) on Windows 
 5. PX4
 
 ## Dependencies
