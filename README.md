@@ -57,16 +57,17 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 
 ![Testing on Real life Dataset](images/Test_Yolo_real.png)
 
-[Colab Link](https://colab.research.google.com/drive/11Ii1Fham5Js4BOswlHylC8AnLLrh2yoR?usp=sharing)
+[Google Colab Link](https://colab.research.google.com/drive/11Ii1Fham5Js4BOswlHylC8AnLLrh2yoR?usp=sharing)
 
 **Training on Synthetic Dataset**
 
 ![Testing on Synthetic Dataset](images/test_yolo8.png)
 
-[Colab Link](https://colab.research.google.com/drive/170YHXG5TjJkWnKKu6tiyMteSWT8p_X48?usp=sharing)
+[Google Colab Link](https://colab.research.google.com/drive/170YHXG5TjJkWnKKu6tiyMteSWT8p_X48?usp=sharing)
 ### B. DETR (Detection Transformer)
 Training on Real life Dataset
-[Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
+
+[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 ## Pipeline Tracking and Obstacle Avoidance
 
 ### References
