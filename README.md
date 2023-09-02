@@ -40,6 +40,10 @@ The Drone has a pay load of Depth Camera, RGB Camera and a LIDAR sensor
 The simulation was carried out using Microsft Airsim on Windows and on Ubuntu 18.04 (WSL2)
 ![Simulation Architecture](images/Internal_Architecture.png) 
 
+## Simulation Environment
+The simulation environment was built from scratch on the Unreal Engine 4.27 Platform. The Unreal engine provides a photorealistic simulation environment with High Visual Fidelity
+![Physical Environment on Unreal Engine](images/Pipeline_environmemt.png) 
+
 
 ## 3D Map Reconstruction
 The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor. The segmentation point cloud gives better seen understanding of the environment.
