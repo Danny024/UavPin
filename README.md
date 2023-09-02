@@ -66,11 +66,12 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/170YHXG5TjJkWnKKu6tiyMteSWT8p_X48?usp=sharing)
 ### B. DETR (Detection Transformer)
-The DETR was used on the Real life dataset but because if++of its performance it was not used on the synthetic dataset.
+The DETR was used on the Real life dataset but because of its performance it was not used on the synthetic dataset.
 
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 ## Pipeline Tracking and Obstacle Avoidance
 The pipeline tracking was carried out using a combination of A * motion planning algorithm and Djikstra's algorithm
+
 ### References
 [1] 
 [2]
