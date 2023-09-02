@@ -85,5 +85,5 @@ The pipeline tracking was carried out using a combination of A * motion planning
 
 ### References
 [1] 
-[2]
+[2] B. Alvey, D. T. Anderson, A. Buck, M. Deardorff, G. Scott, and J. M. Keller, “Simulated Photorealistic Deep Learning Framework and Workflows to Accelerate Computer Vision and Unmanned Aerial Vehicle Research.” Accessed: Jul. 21, 2023. [Online]. Available: https://github.com/MizzouINDFUL/UEUAVSim
 [3]
