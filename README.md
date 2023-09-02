@@ -69,6 +69,7 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 The DETR was used on the Real life dataset but because of its performance it was not used on the synthetic dataset.
 
 **Training on Real life Dataset**
+
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 
 ### Testing Drone on Simulation Environment
