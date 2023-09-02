@@ -49,6 +49,7 @@ The simulation environment was built from scratch on the Unreal Engine 4.27 Plat
 
 ## 3D Map Reconstruction
 The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor. The segmentation point cloud gives better seen understanding of the environment.
+![3D Reconstruct](images/3D_reconstruct.png)
 
 ## Computer Vision algorithm 
 The You-Only-Look-Once v8 and Detection Transformer object detection model was used on the real-life dataset gotten from [Roboflow](https://universe.roboflow.com/zzi-driha/pipe-burst) . The syntehtic dataset was generated from the simulation environment and was trained on the Yolo v8 model. The weight from the training was tested in the simulation environment.
