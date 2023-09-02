@@ -57,8 +57,7 @@ The You-Only-Look-Once v8 and Detection Transformer object detection model was u
 
 ![Testing on Real life Dataset](images/Test_Yolo_real.png)
 
-<img src="images/colab.png" alt="Google Colab" width="50"/>
-[Google Colab Link](https://colab.research.google.com/drive/11Ii1Fham5Js4BOswlHylC8AnLLrh2yoR?usp=sharing)
+<img src="images/colab.png" alt="Google Colab" width="50"/>[Google Colab Link](https://colab.research.google.com/drive/11Ii1Fham5Js4BOswlHylC8AnLLrh2yoR?usp=sharing)
 
 **Training on Synthetic Dataset**
 
