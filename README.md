@@ -71,7 +71,10 @@ The DETR was used on the Real life dataset but because of its performance it was
 <img src="images/colab.png" alt="Google Colab" width="30"/>[Google Colab Link](https://colab.research.google.com/drive/1D17io_6CHbAzvv9_kcOSEk_DxorXZB88?usp=sharing)
 ## Pipeline Tracking and Obstacle Avoidance
 The pipeline tracking was carried out using a combination of A * motion planning algorithm and Djikstra's algorithm
+### Drone Avoiding Obstacles
 ![Obstacle avoidance](images/obstacle_avoid.png)
+
+### Drone Tracking Pipeline
 ![pipeline tracking](images/pipe_tracking.png)
 
 ### References
