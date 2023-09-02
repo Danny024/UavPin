@@ -53,11 +53,11 @@ The 3D Map recosntruction was carried out using the fusion of the snesor reading
 ## Computer Vision algorithm 
 
 ### A.Yolo v8
-<u>Training on Real life Dataset</u>
+**Training on Real life Dataset**
 
 ![Testing on Real life Dataset](images/Test_Yolo_real.png)
 
-<u>Training on Synthetic Dataset</u>
+**Training on Synthetic Dataset**
 
 ![Testing on Synthetic Dataset](images/test_yolo8.png)
 
