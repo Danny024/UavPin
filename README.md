@@ -42,6 +42,8 @@ The simulation was carried out using Microsft Airsim on Windows and on Ubuntu 18
 
 ## Simulation Environment
 The simulation environment was built from scratch on the Unreal Engine 4.27 Platform. The Unreal engine provides a photorealistic simulation environment with High Visual Fidelity
+
+
 ![Physical Environment on Unreal Engine](images/Pipeline_environment.png) 
 
 
