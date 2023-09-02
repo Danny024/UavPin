@@ -33,7 +33,7 @@ pip install pandas pillow tqdm
 
 ## Proposed Hardware Architecture
 The Drone has a pay load of Depth Camera, RGB Camera and a LIDAR sensor
-![Proposed Hardware Architecture]("images/Hardware Architecture.png") 
+![Proposed Hardware Architecture](images/Hardware_Architecture.png) 
 
 
 ## Simulation Architecture
