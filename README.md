@@ -38,6 +38,8 @@ The Drone has a pay load of Depth Camera, RGB Camera and a LIDAR sensor
 
 ## Simulation Architecture
 The simulation was carried out using Microsft Airsim on Windows and on Ubuntu 18.04 (WSL2)
+![Simulation Architecture](images/Internal_Architecture.png) 
+
 
 ## 3D Map Reconstruction
 The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor. The segmentation point cloud gives better seen understanding of the environment.
