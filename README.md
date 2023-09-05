@@ -24,6 +24,7 @@ The Drone is able to perform the following
 ## Dependencies
 ```
 python version >= 3.8
+pip install roboflow
 pip install open3d
 pip install msgpack-rpc-python
 pip install airsim
