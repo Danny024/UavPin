@@ -48,7 +48,7 @@ The simulation environment was built from scratch on the Unreal Engine 4.27 Plat
 
 
 ## 3D Map Reconstruction
-The 3D Map recosntruction was carried out using the fusion of the snesor readings from lidar sensor and the depth sensor.  The reconstructed map when compared to ground truth comprises of rgb image and segmentation point cloud. The segmentation point cloud gives better seen understanding of the environment by segmenting objects in the scene using colour mapping. The point cloud data can be visualized using [CloudCompare](https://www.danielgm.net/cc/)
+The 3D Map recosntruction was carried out using the fusion of the sensor readings from lidar sensor and the depth sensor.  The reconstructed map when compared to ground truth comprises of rgb image and segmentation point cloud. The segmentation point cloud gives better seen understanding of the environment by segmenting objects in the scene using colour mapping. The point cloud data can be visualized using [CloudCompare](https://www.danielgm.net/cc/)
 ![3D Reconstruct](images/3D_reconstruct.png)
 
 ## Computer Vision algorithm 
